@@ -1,0 +1,32 @@
+/* .container {
+  max-width: 500px;
+  background-color: #dcdede;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 6px;
+}
+.container h2 {
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.form-group input {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.btn {
+  display: block;
+  width: 50%;
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+  border-radius: 6px;
+} */
